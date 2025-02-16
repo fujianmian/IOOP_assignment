@@ -1,0 +1,1425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JUNYONG_IS_DASHUAIGE_DESKTOP_ASSIGMENT19_3__2__ASSIGMENT19_3_ASSIGMENT19_3_LATEST.MDF/True/SqlTable/dbo.UserInfo.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JUNYONG_IS_DASHUAIGE_DESKTOP_ASSIGMENT19_3__2__ASSIGMENT19_3_ASSIGMENT19_3_LATEST.MDF/True/SqlTable/dbo.CoachMember.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|c:\\users\\junyong is dashuaige\\desktop\\assigment19-3 (2)\\assigment19-3\\assigment19-3\\assignstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\assignstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\assignment.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\assignment.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\addmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\addmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\addmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\addmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\addcoach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\addcoach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\uiadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\uiadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\viewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\viewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JUNYONG_IS_DASHUAIGE_DOWNLOADS_ASSIGMENT_LATEST_V2__1__ASSIGMENT19_3_ASSIGMENT19_3_LATEST.MDF/True/SqlTable/dbo.CoachMember.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JUNYONG_IS_DASHUAIGE_DOWNLOADS_ASSIGMENT_LATEST_V2__1__ASSIGMENT19_3_ASSIGMENT19_3_LATEST.MDF/True/SqlTable/dbo.UserInfo.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\refreshcompetition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\refreshcompetition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\searchedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\searchedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\manager ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\manager ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\managementpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\managementpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmtraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmtraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmsuggestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmsuggestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmcompetition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmcompetition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\findstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\findstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\editmemberpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\editmemberpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\editmanagerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\editmanagerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\editcoachpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\editcoachpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\deletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\deletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\addcoach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\addcoach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\viewdata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\viewdata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\uiviewpaid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\uiviewpaid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\updateresult.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\updateresult.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\uiviewpaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\uiviewpaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\uisendrecomm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\uisendrecomm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\uisendrecomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\uisendrecomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\uiperofrmance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\uiperofrmance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\uiperofrmance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\uiperofrmance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\uiedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\uiedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\uiedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\uiedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\uiedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\uiedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\uiadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\uiadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\searchedituser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\searchedituser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\manager ui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\manager ui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\managementpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\managementpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmtraining.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmtraining.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmsuggestion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmsuggestion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmpayment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmpayment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmmember.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmmember.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmcompetition.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmcompetition.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\findstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\findstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\frmcompetition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\frmcompetition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\findstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\findstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\editmemberpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\editmemberpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\editmanagerpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\editmanagerpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\editcoachpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\editcoachpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\deletepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\deletepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\deletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\deletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\competition.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\competition.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\assignstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\assignstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\assignstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\assignstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\adminhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\adminhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\addmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\addmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\addmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\addmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\addmember.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\addmember.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\addmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\addmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\addcoach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\addcoach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\uicoach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\uicoach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\assigment19-3\\addmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64FC9A6E-7F12-4B89-A3ED-6F534405E164}|Assigment19-3\\Assigment.csproj|solutionrelative:assigment19-3\\addmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.UserInfo [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JUNYONG_IS_DASHUAIGE_DESKTOP_ASSIGMENT19_3__2__ASSIGMENT19_3_ASSIGMENT19_3_LATEST.MDF/True/SqlTable/dbo.UserInfo.sql",
+              "ToolTip": "dbo.UserInfo [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-16T14:05:38.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.CoachMember [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JUNYONG_IS_DASHUAIGE_DESKTOP_ASSIGMENT19_3__2__ASSIGMENT19_3_ASSIGMENT19_3_LATEST.MDF/True/SqlTable/dbo.CoachMember.sql",
+              "ToolTip": "dbo.CoachMember [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-16T14:04:13.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignStudent.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AssignStudent.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AssignStudent.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AssignStudent.cs",
+              "RelativeToolTip": "Assigment19-3\\AssignStudent.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddMember.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddMember.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AddMember.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddMember.cs",
+              "RelativeToolTip": "Assigment19-3\\AddMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminHome.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AdminHome.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AdminHome.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AdminHome.cs",
+              "RelativeToolTip": "Assigment19-3\\AdminHome.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwEQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddMenu.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddMenu.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AddMenu.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddMenu.cs",
+              "RelativeToolTip": "Assigment19-3\\AddMenu.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\App.config",
+              "RelativeDocumentMoniker": "Assigment19-3\\App.config",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\App.config",
+              "RelativeToolTip": "Assigment19-3\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-16T14:01:22.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assignment.csproj",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Assignment.csproj",
+              "RelativeDocumentMoniker": "Assigment19-3\\Assignment.csproj",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Assignment.csproj",
+              "RelativeToolTip": "Assigment19-3\\Assignment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T14:01:22.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assignment.csproj.user",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Assignment.csproj.user",
+              "RelativeDocumentMoniker": "Assigment19-3\\Assignment.csproj.user",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Assignment.csproj.user",
+              "RelativeToolTip": "Assigment19-3\\Assignment.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-02-16T14:01:22.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddManager.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddManager.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AddManager.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddManager.cs",
+              "RelativeToolTip": "Assigment19-3\\AddManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCoach.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddCoach.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AddCoach.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddCoach.cs",
+              "RelativeToolTip": "Assigment19-3\\AddCoach.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmProfile.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmProfile.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmProfile.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\frmProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmMember.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmMember.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmMember.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\frmMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.785Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.CoachMember.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JUNYONG_IS_DASHUAIGE_DOWNLOADS_ASSIGMENT_LATEST_V2__1__ASSIGMENT19_3_ASSIGMENT19_3_LATEST.MDF/True/SqlTable/dbo.CoachMember.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JUNYONG_IS_DASHUAIGE_DOWNLOADS_ASSIGMENT_LATEST_V2__1__ASSIGMENT19_3_ASSIGMENT19_3_LATEST.MDF/True/SqlTable/dbo.CoachMember.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-15T16:30:31.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Management.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Management.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\Management.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Management.cs",
+              "RelativeToolTip": "Assigment19-3\\Management.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmProfile.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmProfile.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmProfile.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmProfile.cs",
+              "RelativeToolTip": "Assigment19-3\\frmProfile.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAWwCwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmProfile.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmProfile.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmProfile.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmProfile.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\frmProfile.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "uiAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiAdd.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\uiAdd.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiAdd.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\uiAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.792Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AdminHome.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AdminHome.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AdminHome.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\AdminHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.794Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RefreshCompetition.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\RefreshCompetition.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\RefreshCompetition.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\RefreshCompetition.cs",
+              "RelativeToolTip": "Assigment19-3\\RefreshCompetition.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmMember.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmMember.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmMember.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmMember.cs",
+              "RelativeToolTip": "Assigment19-3\\frmMember.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAewHYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Training.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\Training.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Training.cs",
+              "RelativeToolTip": "Assigment19-3\\Training.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAwwBEAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.UserInfo.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JUNYONG_IS_DASHUAIGE_DOWNLOADS_ASSIGMENT_LATEST_V2__1__ASSIGMENT19_3_ASSIGMENT19_3_LATEST.MDF/True/SqlTable/dbo.UserInfo.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JUNYONG_IS_DASHUAIGE_DOWNLOADS_ASSIGMENT_LATEST_V2__1__ASSIGMENT19_3_ASSIGMENT19_3_LATEST.MDF/True/SqlTable/dbo.UserInfo.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-15T16:28:58.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ViewData.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\ViewData.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\ViewData.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\ViewData.cs",
+              "RelativeToolTip": "Assigment19-3\\ViewData.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Member.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\Member.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Member.cs",
+              "RelativeToolTip": "Assigment19-3\\Member.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwE4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SearchEditUser.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\SearchEditUser.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\SearchEditUser.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\SearchEditUser.cs",
+              "RelativeToolTip": "Assigment19-3\\SearchEditUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Program.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\Program.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Program.cs",
+              "RelativeToolTip": "Assigment19-3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Manager UI.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Manager UI.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\Manager UI.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Manager UI.cs",
+              "RelativeToolTip": "Assigment19-3\\Manager UI.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManagementPage.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\ManagementPage.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\ManagementPage.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\ManagementPage.cs",
+              "RelativeToolTip": "Assigment19-3\\ManagementPage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Login.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\Login.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Login.cs",
+              "RelativeToolTip": "Assigment19-3\\Login.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwA4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmTraining.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmTraining.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmTraining.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmTraining.cs",
+              "RelativeToolTip": "Assigment19-3\\frmTraining.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAqwEUAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmSuggestion.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmSuggestion.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmSuggestion.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmSuggestion.cs",
+              "RelativeToolTip": "Assigment19-3\\frmSuggestion.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmPayment.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmPayment.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmPayment.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmPayment.cs",
+              "RelativeToolTip": "Assigment19-3\\frmPayment.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwvz8AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmLogin.cs",
+              "RelativeToolTip": "Assigment19-3\\frmLogin.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmCompetition.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmCompetition.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmCompetition.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmCompetition.cs",
+              "RelativeToolTip": "Assigment19-3\\frmCompetition.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0IAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FindStudent.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\FindStudent.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\FindStudent.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\FindStudent.cs",
+              "RelativeToolTip": "Assigment19-3\\FindStudent.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EditMemberPage.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\EditMemberPage.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\EditMemberPage.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\EditMemberPage.cs",
+              "RelativeToolTip": "Assigment19-3\\EditMemberPage.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EditManagerPage.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\EditManagerPage.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\EditManagerPage.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\EditManagerPage.cs",
+              "RelativeToolTip": "Assigment19-3\\EditManagerPage.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EditCoachPage.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\EditCoachPage.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\EditCoachPage.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\EditCoachPage.cs",
+              "RelativeToolTip": "Assigment19-3\\EditCoachPage.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DeletePage.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\DeletePage.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\DeletePage.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\DeletePage.cs",
+              "RelativeToolTip": "Assigment19-3\\DeletePage.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAowD0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddCoach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddCoach.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AddCoach.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddCoach.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\AddCoach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.806Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmLogin.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmLogin.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmLogin.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmLogin.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\frmLogin.designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.807Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ViewData.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\ViewData.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\ViewData.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\ViewData.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\ViewData.designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwFoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateResult.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\UpdateResult.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\UpdateResult.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\UpdateResult.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\UpdateResult.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "uiViewPaid.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiViewPaid.Designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\uiViewPaid.Designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiViewPaid.Designer.cs",
+              "RelativeToolTip": "Assigment19-3\\uiViewPaid.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "uiViewPaid.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiViewPaid.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\uiViewPaid.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiViewPaid.cs",
+              "RelativeToolTip": "Assigment19-3\\uiViewPaid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "uiSendRecomm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiSendRecomm.Designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\uiSendRecomm.Designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiSendRecomm.Designer.cs",
+              "RelativeToolTip": "Assigment19-3\\uiSendRecomm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "uiSendRecomm.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiSendRecomm.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\uiSendRecomm.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiSendRecomm.cs",
+              "RelativeToolTip": "Assigment19-3\\uiSendRecomm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "uiPerofrmance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiPerofrmance.Designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\uiPerofrmance.Designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiPerofrmance.Designer.cs",
+              "RelativeToolTip": "Assigment19-3\\uiPerofrmance.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "uiPerofrmance.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiPerofrmance.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\uiPerofrmance.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiPerofrmance.cs",
+              "RelativeToolTip": "Assigment19-3\\uiPerofrmance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "uiEdit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiEdit.Designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\uiEdit.Designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiEdit.Designer.cs",
+              "RelativeToolTip": "Assigment19-3\\uiEdit.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "uiEdit.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiEdit.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\uiEdit.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiEdit.cs",
+              "RelativeToolTip": "Assigment19-3\\uiEdit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "uiEdit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiEdit.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\uiEdit.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiEdit.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\uiEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "uiAdd.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiAdd.Designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\uiAdd.Designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiAdd.Designer.cs",
+              "RelativeToolTip": "Assigment19-3\\uiAdd.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SearchEditUser.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\SearchEditUser.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\SearchEditUser.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\SearchEditUser.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\SearchEditUser.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Manager UI.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Manager UI.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\Manager UI.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Manager UI.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\Manager UI.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ManagementPage.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\ManagementPage.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\ManagementPage.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\ManagementPage.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\ManagementPage.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frmTraining.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmTraining.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmTraining.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmTraining.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\frmTraining.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmSuggestion.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmSuggestion.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmSuggestion.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmSuggestion.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\frmSuggestion.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frmPayment.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmPayment.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmPayment.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmPayment.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\frmPayment.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "frmMember.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmMember.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmMember.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmMember.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\frmMember.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "frmCompetition.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmCompetition.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmCompetition.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmCompetition.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\frmCompetition.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmCompetition.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmCompetition.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\frmCompetition.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\frmCompetition.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\frmCompetition.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FindStudent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\FindStudent.Designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\FindStudent.Designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\FindStudent.Designer.cs",
+              "RelativeToolTip": "Assigment19-3\\FindStudent.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FindStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\FindStudent.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\FindStudent.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\FindStudent.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\FindStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.819Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "EditMemberPage.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\EditMemberPage.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\EditMemberPage.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\EditMemberPage.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\EditMemberPage.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "EditManagerPage.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\EditManagerPage.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\EditManagerPage.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\EditManagerPage.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\EditManagerPage.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "EditCoachPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\EditCoachPage.Designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\EditCoachPage.Designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\EditCoachPage.Designer.cs",
+              "RelativeToolTip": "Assigment19-3\\EditCoachPage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DeletePage.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\DeletePage.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\DeletePage.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\DeletePage.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\DeletePage.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DeletePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\DeletePage.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\DeletePage.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\DeletePage.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\DeletePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.822Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Competition.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Competition.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\Competition.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\Competition.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\Competition.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AssignStudent.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AssignStudent.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AssignStudent.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AssignStudent.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\AssignStudent.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AssignStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AssignStudent.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AssignStudent.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AssignStudent.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\AssignStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.824Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "AdminHome.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AdminHome.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AdminHome.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AdminHome.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\AdminHome.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AddMenu.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddMenu.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AddMenu.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddMenu.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\AddMenu.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "AddMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddMenu.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AddMenu.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddMenu.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\AddMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.825Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AddMember.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddMember.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AddMember.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddMember.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\AddMember.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AddManager.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddManager.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AddManager.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddManager.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\AddManager.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AddCoach.designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddCoach.designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AddCoach.designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddCoach.designer.cs",
+              "RelativeToolTip": "Assigment19-3\\AddCoach.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "uiCoach.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiCoach.Designer.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\uiCoach.Designer.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\uiCoach.Designer.cs",
+              "RelativeToolTip": "Assigment19-3\\uiCoach.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AddManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddManager.cs",
+              "RelativeDocumentMoniker": "Assigment19-3\\AddManager.cs",
+              "ToolTip": "C:\\Users\\junyong is DaShuaiGe\\Desktop\\Assigment19-3 (2)\\Assigment19-3\\Assigment19-3\\AddManager.cs [Design]",
+              "RelativeToolTip": "Assigment19-3\\AddManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:01:22.828Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

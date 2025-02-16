@@ -1,0 +1,225 @@
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Performance.mdf
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Performance_log.ldf
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Training_v1.mdf
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Training_v1_log.ldf
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.exe.config
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.exe
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.pdb
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.AssemblyReference.cache
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiCoach.resources
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiEdit.resources
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiAdd.resources
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiPerformance.resources
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiViewPaid.resources
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiSendRecomm.resources
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.Properties.Resources.resources
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.GenerateResource.cache
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.CopyComplete
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment19-3.exe
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assigment19-3.pdb
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Database1.mdf
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Database1_log.ldf
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assignment_1.frmLogin.resources
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Competition_v3.mdf
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\Competition_v3_log.ldf
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\bin\Debug\refreshCompetition_log.ldf
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.AssignStudentForm.resources
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.CompetitionForm.resources
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.FindStudentForm.resources
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.Manager_UI.resources
+C:\Users\Elvin Lim\OneDrive\文档\IOOC\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.UpdateResultForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Competition_v3.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Competition_v3_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Latest.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Latest_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Performance.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Performance_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\refreshCompetition_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Training_v1.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Training_v1_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.AssemblyReference.cache
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.AssignStudentForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.CompetitionForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.FindStudentForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment_1.frmLogin.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.Manager_UI.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiCoach.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiEdit.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiAdd.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiPerformance.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiViewPaid.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiSendRecomm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.Properties.Resources.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.UpdateResultForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.GenerateResource.cache
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.CopyComplete
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19-3.exe
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19-3.pdb
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.exe.config
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.exe
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3 (1)\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.pdb
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.AssemblyReference.cache
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment19-3.exe
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment19-3.pdb
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment.AddCoach.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment.AddManager.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment.AddMember.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment.AddMenu.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment.AdminHome.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.AssignStudentForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.CompetitionForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment.DeletePage.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment.EditCoachPage.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment.EditManagerPage.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment.EditMemberPage.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.FindStudentForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment_1.frmLogin.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment.ManagementPage.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.Manager_UI.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment.SearchEditUser.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiCoach.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiEdit.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiAdd.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiPerformance.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiViewPaid.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.uiSendRecomm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.Properties.Resources.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment_Manager_v1.UpdateResultForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignment.ViewData.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.GenerateResource.cache
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Competition_v3.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Competition_v3_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Database.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Database_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Latest.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Latest_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Performance.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Performance_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\refreshCompetition_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Training_v1.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Training_v1_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.exe.config
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.exe
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.pdb
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.CopyComplete
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignmentv2.frmCompetition.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignmentv2.frmMember.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignmentv2.frmPayment.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignmentv2.frmProfile.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignmentv2.frmSuggestion.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment19-3\Assigment19-3\Assigment19-3\obj\Debug\Assignmentv2.frmTraining.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.AssemblyReference.cache
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19-3.exe
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19-3.pdb
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Competition_v3.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Competition_v3_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Database.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Database_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Latest.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Latest_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Performance.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Performance_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\refreshCompetition_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Training_v1.mdf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Training_v1_log.ldf
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.exe.config
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.exe
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.pdb
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.Properties.Resources.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.GenerateResource.cache
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.CopyComplete
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.AddCoach.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.AddManager.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.AddMember.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.AddMenu.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.AdminHome.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.AssignStudentForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.uiCoach.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.CompetitionForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.DeletePage.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.EditCoachPage.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.EditManagerPage.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.EditMemberPage.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.FindStudentForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmCompetition.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmLogin.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmMember.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmPayment.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmProfile.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmSuggestion.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmTraining.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.ManagementPage.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.Manager_UI.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.SearchEditUser.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.uiEdit.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.uiAdd.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.uiPerformance.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.uiViewPaid.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.uiSendRecomm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.UpdateResultForm.resources
+C:\Users\junyong is DaShuaiGe\Downloads\Assigment_latest_v2 (1)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.ViewData.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Competition_v3.mdf
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Competition_v3_log.ldf
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Database.mdf
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Database_log.ldf
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Latest.mdf
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Latest_log.ldf
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Performance.mdf
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Performance_log.ldf
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\refreshCompetition_log.ldf
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Training_v1.mdf
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Training_v1_log.ldf
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.exe.config
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.exe
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Assigment19-3.pdb
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.AssemblyReference.cache
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.AddCoach.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.AddManager.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.AddMember.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.AddMenu.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.AdminHome.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.AssignStudentForm.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.CompetitionForm.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.DeletePage.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.EditCoachPage.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.EditManagerPage.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.EditMemberPage.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.FindStudentForm.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmCompetition.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmLogin.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmMember.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmPayment.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmProfile.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmSuggestion.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.frmTraining.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.ManagementPage.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.Manager_UI.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.SearchEditUser.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.uiCoach.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.uiEdit.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.uiAdd.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.uiPerformance.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.uiViewPaid.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.uiSendRecomm.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19_3.Properties.Resources.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.UpdateResultForm.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assignment19_3.ViewData.resources
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.GenerateResource.cache
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assigment.csproj.Up2Date
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19-3.exe
+C:\Users\junyong is DaShuaiGe\Desktop\Assigment19-3 (2)\Assigment19-3\Assigment19-3\obj\Debug\Assigment19-3.pdb
